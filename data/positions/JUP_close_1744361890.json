@@ -1,0 +1,17 @@
+{
+  "symbol": "JUP",
+  "action": "close",
+  "timestamp": 1744361890.697758,
+  "formatted_time": "2025-04-11 16:58:10",
+  "bp_side": "BUY",
+  "hl_side": "SELL",
+  "bp_size": 130.0,
+  "hl_size": 130.0,
+  "bp_price": 0.3699,
+  "hl_price": 0.369445,
+  "price_diff": 0.0004549999999999832,
+  "price_diff_percent": 0.12315770953727433,
+  "bp_funding": -0.000347978,
+  "hl_funding": 1.46136e-05,
+  "funding_diff": -0.0003625916
+}

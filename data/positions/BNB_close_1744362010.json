@@ -1,0 +1,17 @@
+{
+  "symbol": "BNB",
+  "action": "close",
+  "timestamp": 1744362010.017546,
+  "formatted_time": "2025-04-11 17:00:10",
+  "bp_side": "BUY",
+  "hl_side": "SELL",
+  "bp_size": 0.1,
+  "hl_size": 0.1,
+  "bp_price": 579.21,
+  "hl_price": 579.725,
+  "price_diff": -0.5149999999999864,
+  "price_diff_percent": -0.08883522359739296,
+  "bp_funding": -0.00053567,
+  "hl_funding": -0.0001551048,
+  "funding_diff": -0.0003805652
+}

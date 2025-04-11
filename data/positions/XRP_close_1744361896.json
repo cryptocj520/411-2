@@ -1,0 +1,17 @@
+{
+  "symbol": "XRP",
+  "action": "close",
+  "timestamp": 1744361896.425173,
+  "formatted_time": "2025-04-11 16:58:16",
+  "bp_side": "SELL",
+  "hl_side": "BUY",
+  "bp_size": 25.0,
+  "hl_size": 25.0,
+  "bp_price": 2.0037,
+  "hl_price": 2.0025000000000004,
+  "price_diff": 0.0011999999999994237,
+  "price_diff_percent": 0.05992509363293002,
+  "bp_funding": 0.000173908,
+  "hl_funding": -0.0001996568,
+  "funding_diff": 0.0003735648
+}

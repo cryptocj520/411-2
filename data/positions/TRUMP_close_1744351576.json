@@ -1,0 +1,17 @@
+{
+  "symbol": "TRUMP",
+  "action": "close",
+  "timestamp": 1744351576.8138728,
+  "formatted_time": "2025-04-11 14:06:16",
+  "bp_side": "SELL",
+  "hl_side": "BUY",
+  "bp_size": 6.0,
+  "hl_size": 6.0,
+  "bp_price": 8.04,
+  "hl_price": 8.05395,
+  "price_diff": -0.01395000000000124,
+  "price_diff_percent": -0.17320693572720514,
+  "bp_funding": -0.000141964,
+  "hl_funding": 0.0001,
+  "funding_diff": -0.000241964
+}

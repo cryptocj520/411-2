@@ -1,0 +1,17 @@
+{
+  "symbol": "HYPE",
+  "action": "close",
+  "timestamp": 1744310582.1601331,
+  "formatted_time": "2025-04-11 02:43:02",
+  "bp_side": "BUY",
+  "hl_side": "SELL",
+  "bp_size": 10.0,
+  "hl_size": 10.0,
+  "bp_price": 13.889,
+  "hl_price": 13.8795,
+  "price_diff": 0.009499999999999176,
+  "price_diff_percent": 0.06844626967829659,
+  "bp_funding": 0.001830677,
+  "hl_funding": 0.0001,
+  "funding_diff": 0.001730677
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "IP",
+  "action": "close",
+  "timestamp": 1744360466.6462028,
+  "formatted_time": "2025-04-11 16:34:26",
+  "bp_side": "BUY",
+  "hl_side": "SELL",
+  "bp_size": 13.0,
+  "hl_size": 13.0,
+  "bp_price": 4.0734,
+  "hl_price": 4.07455,
+  "price_diff": -0.0011499999999999844,
+  "price_diff_percent": -0.028223975653752786,
+  "bp_funding": -0.000629181,
+  "hl_funding": -6.79016e-05,
+  "funding_diff": -0.0005612794000000001
+}

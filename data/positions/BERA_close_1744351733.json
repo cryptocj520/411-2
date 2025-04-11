@@ -1,0 +1,17 @@
+{
+  "symbol": "BERA",
+  "action": "close",
+  "timestamp": 1744351733.191183,
+  "formatted_time": "2025-04-11 14:08:53",
+  "bp_side": "BUY",
+  "hl_side": "SELL",
+  "bp_size": 9.0,
+  "hl_size": 9.0,
+  "bp_price": 4.1622,
+  "hl_price": 4.1518,
+  "price_diff": 0.010400000000000631,
+  "price_diff_percent": 0.2504937617419103,
+  "bp_funding": -0.000235198,
+  "hl_funding": -0.000758532,
+  "funding_diff": 0.0005233340000000001
+}

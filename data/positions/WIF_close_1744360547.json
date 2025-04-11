@@ -1,0 +1,17 @@
+{
+  "symbol": "WIF",
+  "action": "close",
+  "timestamp": 1744360547.619606,
+  "formatted_time": "2025-04-11 16:35:47",
+  "bp_side": "BUY",
+  "hl_side": "SELL",
+  "bp_size": 130.0,
+  "hl_size": 130.0,
+  "bp_price": 0.3773,
+  "hl_price": 0.377365,
+  "price_diff": -6.499999999998174e-05,
+  "price_diff_percent": -0.017224702873870585,
+  "bp_funding": -0.000146388,
+  "hl_funding": 0.0001,
+  "funding_diff": -0.000246388
+}
